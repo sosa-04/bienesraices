@@ -12,7 +12,6 @@
         <h1>¿Esta seguro de elimnar este registro?</h1>
         <br>
         <br>
-        <a href="{{route('propiedad.create')}}" class="btn btn-primary">Agregar Propiedad</a>
         
         <table class="table">
             <thead>
